@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "195862165902",
+    "project_id": "telegram-f533c",
+    "storage_bucket": "telegram-f533c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195862165902:android:f211fcccd21ba862ecccdf",
+        "android_client_info": {
+          "package_name": "com.indresh.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195862165902-4bgrokb7e38984d8o5e95aog4b573la2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEw7B9CRrJwfk9Px5Q9Khi5BDi4LK1tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195862165902-4bgrokb7e38984d8o5e95aog4b573la2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195862165902-ht898gojji8gtl2ccj9kk1ekkcftktja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.indresh.telegram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
